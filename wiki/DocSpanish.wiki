@@ -10,7 +10,7 @@ En este momento el driver aunque no es configurable, es totalmente funcional, si
  * Aconsejo mirar antes el tutorial de PPjoy en Marcianitos.net
 [http://web.archive.org/web/20070203140435/http://www.marcianitos.org/tutoriales/IC018.htm http://www.marcianitos.org/tutoriales/IC018.htm (archive.org)]
  * Mas informacion sobre el driver y soporte, en el topic original:
- http://www.forumcommunity.net/?t=2173834
+ http://www.retrovicio.com/foro/showthread.php?t=5826
 
 Con PPJoy se configuran los botones por lineas, tal que asi:
 
