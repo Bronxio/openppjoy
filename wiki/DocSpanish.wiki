@@ -58,16 +58,16 @@ ATENCIÓN: Estos esquemas estan pendientes de actualizar, mejor mirad
 
                                        #JOY1
                                       |--@---(2)
-                                      |--@---(3)
-                                      |--@---(4)
-                                      |--@---(5)
-L10-[   diodo   ]---------------------|--@---(6)
-                                      |--@---(7)
-                                      |--@---(8)
-                                      |--@---(9)
-                                      |--@---(1)
-                                      |--@---(14)
-                                      |--@---(16)
+                                       --@---(3)
+                                       --@---(4)
+                                       --@---(5)
+L10-             ...                --|--@---(6)
+                                       --@---(7)
+                                       --@---(8)
+                                       --@---(9)
+                                       --@---(1)
+                                       --@---(14)
+                                       --@---(16)
                                       |--@---(17)
 
 Leyenda:  @  - Botones, configurados en: "normalmente desconectados".
@@ -76,45 +76,10 @@ Leyenda:  @  - Botones, configurados en: "normalmente desconectados".
 }}}
 
 
-Y asi podriais seguir usando las siguientes lineas disponibles (11,12,13,15). Por si alguno aun no lo tiene claro, pongo un ejemplo final con 2 palancas:
+Y asi podriais seguir usando las siguientes lineas disponibles (11,12,13,15). Por si alguno aun no lo tiene claro, pongo un ejemplo final con 2 palancas en las líneas 11 y 12:
 
-{{{
-ATENCIÓN: Estos esquemas estan pendientes de actualizar, mejor mirad
-  los esquemas de marcianitos (link arriba), teniendo en cuenta que
-  nosotros trabajamos en columnas y ellos en filas.
-
-                                       #JOY1
-                                      |--@---(2)
-                                      |--@---(3)
-                                      |--@---(4)
-                                      |--@---(5)
-L10-[   diodo   ]---------------------|--@---(6)
-                                      |--@---(7)
-                                      |--@---(8)
-                                      |--@---(9)
-                                      |--@---(1)
-                                      |--@---(14)
-                                      |--@---(16)
-                                      |--@---(17)
-
-                                       #JOY2
-                                      |--@---(2)
-                                      |--@---(3)
-                                      |--@---(4)
-                                      |--@---(5)
-L11-[   diodo   ]---------------------|--@---(6)
-                                      |--@---(7)
-                                      |--@---(8)
-                                      |--@---(9)
-                                      |--@---(1)
-                                      |--@---(14)
-                                      |--@---(16)
-                                      |--@---(17)
-
-Leyenda:  @  - Botones, configurados en: "normalmente desconectados".
-		 (n) - Lineas de datos.
-		 lnn - Lineas de lectura.
-}}}
+https://openppjoy.googlecode.com/files/panel-openppjoy.png
+_diagrama simplificado sólo con direcciones_
 
 O siguiendo los esquemas anteriores hacemos:
 
