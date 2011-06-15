@@ -53,63 +53,14 @@ In this way the driver only have to look the number of active columns/controls a
 
 {{{
 NOTE: This diagram need an update.
-
-                                       #JOY1
-                                      |--@---(2)
-                                      |--@---(3)
-                                      |--@---(4)
-                                      |--@---(5)
-L10-[   diode   ]---------------------|--@---(6)
-                                      |--@---(7)
-                                      |--@---(8)
-                                      |--@---(9)
-                                      |--@---(1)
-                                      |--@---(14)
-                                      |--@---(16)
-                                      |--@---(17)
-
-Legend:  @  - Buttons, configured on: "normally closed".
-		 (n) - Data lines.
-		 lnn - Read lines.
 }}}
 
 And you could add more joysticks with the next available lines (11,12,13,15). If you dont see yet, you need get attention to the next example with two controls:
 
-{{{
-NOTE: This diagram need an update.
+Example with two joys on lines 11, 12:
 
-                                       #JOY1
-                                      |--@---(2)
-                                      |--@---(3)
-                                      |--@---(4)
-                                      |--@---(5)
-L10-[   diode   ]---------------------|--@---(6)
-                                      |--@---(7)
-                                      |--@---(8)
-                                      |--@---(9)
-                                      |--@---(1)
-                                      |--@---(14)
-                                      |--@---(16)
-                                      |--@---(17)
-
-                                       #JOY2
-                                      |--@---(2)
-                                      |--@---(3)
-                                      |--@---(4)
-                                      |--@---(5)
-L11-[   diode   ]---------------------|--@---(6)
-                                      |--@---(7)
-                                      |--@---(8)
-                                      |--@---(9)
-                                      |--@---(1)
-                                      |--@---(14)
-                                      |--@---(16)
-                                      |--@---(17)
-
-Legend:  @  - Buttons, configured on: "normally closed".
-		 (n) - Data lines.
-		 lnn - Read lines.
-}}}
+https://openppjoy.googlecode.com/files/panel-openppjoy.png
+_diagram simplified just with joy directions_
 
 Finally you can use 5 controls with 8 buttons each or 3 controls and 2 basic configurations of keyboard, etc... it is your choice! :)
 
