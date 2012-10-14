@@ -53,8 +53,7 @@ De esta forma tendriamos solo que mirar el numero de columnas/controles activos,
 
 {{{
 ATENCIÓN: Estos esquemas estan pendientes de actualizar, mejor mirad
-  los esquemas de marcianitos (link arriba), teniendo en cuenta que
-  nosotros trabajamos en columnas y ellos en filas.
+  el dibujo inferior.
 
                                        #JOY1
                                       |--@---(2)
