@@ -95,7 +95,6 @@ En total podriais tener 5 palancas de 8 botones o 3 palancas y las dos configura
 		 		CURSOR_DOWN
 				CURSOR_LEFT
 				CURSOR_RIGHT
-				CURSOR_SPACE
 				LEFT_CONTROL
 				LEFT_ALT
 				SPACE
