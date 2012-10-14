@@ -171,7 +171,7 @@ Would have 5 joysticks of 8 buttons thats is reading the lines: 10,11,12,13,15 :
 And finally:
 
 {{{
-# insmod arcade map=0,1,1,1,1,3
+# insmod arcade map=0,1,1,1,1,4
 }}}
 
 We can easily get 4 joysticks with 8 buttons and a basic configuration of keyboard
